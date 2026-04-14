@@ -2106,7 +2106,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/fastcdr-release.git
+      url: https://github.com/ros2-dyn-gbp/fastcdr-release.git
       version: 2.3.5-1
     source:
       test_commits: false
@@ -6803,7 +6803,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rcpputils-release.git
+      url: https://github.com/ros2-dyn-gbp/rcpputils-release.git
       version: 2.14.4-1
     source:
       test_pull_requests: true
@@ -7344,7 +7344,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rmw_dds_common-release.git
+      url: https://github.com/ros2-dyn-gbp/rmw_dds_common-release.git
       version: 6.0.0-1
     source:
       test_pull_requests: true
@@ -7937,7 +7937,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/ros_environment-release.git
+      url: https://github.com/ros2-dyn-gbp/ros_environment-release.git
       version: 4.4.1-1
     source:
       test_pull_requests: true
@@ -8184,7 +8184,7 @@ repositories:
       - rosidl_core_runtime
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rosidl_core-release.git
+      url: https://github.com/ros2-dyn-gbp/rosidl_core-release.git
       version: 0.4.2-1
     source:
       test_pull_requests: true
@@ -8221,7 +8221,7 @@ repositories:
       - rosidl_default_runtime
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rosidl_defaults-release.git
+      url: https://github.com/ros2-dyn-gbp/rosidl_defaults-release.git
       version: 1.8.1-1
     source:
       test_pull_requests: true
@@ -8271,7 +8271,7 @@ repositories:
       - rosidl_generator_py
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rosidl_python-release.git
+      url: https://github.com/ros2-dyn-gbp/rosidl_python-release.git
       version: 0.27.1-1
     source:
       test_pull_requests: true
@@ -8305,7 +8305,7 @@ repositories:
       - rosidl_generator_rs
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rosidl_rust-release.git
+      url: https://github.com/ros2-dyn-gbp/rosidl_rust-release.git
       version: 0.4.12-1
     source:
       type: git
@@ -8323,7 +8323,7 @@ repositories:
       - rosidl_typesupport_cpp
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rosidl_typesupport-release.git
+      url: https://github.com/ros2-dyn-gbp/rosidl_typesupport-release.git
       version: 3.4.2-1
     source:
       test_pull_requests: true
@@ -8342,7 +8342,7 @@ repositories:
       - rosidl_typesupport_fastrtps_cpp
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rosidl_typesupport_fastrtps-release.git
+      url: https://github.com/ros2-dyn-gbp/rosidl_typesupport_fastrtps-release.git
       version: 3.9.4-1
     source:
       test_pull_requests: true
@@ -8446,7 +8446,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rpyutils-release.git
+      url: https://github.com/ros2-dyn-gbp/rpyutils-release.git
       version: 0.7.2-1
     source:
       test_pull_requests: true
@@ -9718,7 +9718,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/test_interface_files-release.git
+      url: https://github.com/ros2-dyn-gbp/test_interface_files-release.git
       version: 0.14.1-1
     source:
       test_pull_requests: true
@@ -10318,7 +10318,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/unique_identifier_msgs-release.git
+      url: https://github.com/ros2-dyn-gbp/unique_identifier_msgs-release.git
       version: 2.8.1-1
     source:
       test_pull_requests: true
