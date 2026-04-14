@@ -7545,8 +7545,7 @@ repositories:
       type: git
       url: https://github.com/ros2/ros1_bridge.git
       version: master
-    status_description: Maintained in source form only since no ROS 1 packages available
-      in Rolling
+    status_description: Maintained in source form only since no ROS 1 packages available in Rolling
   ros2_canopen:
     doc:
       type: git
@@ -8084,8 +8083,7 @@ repositories:
       type: git
       url: https://github.com/ros2/rosbag2_bag_v2.git
       version: master
-    status_description: Maintained in source form only since no ROS 1 packages available
-      in Rolling
+    status_description: Maintained in source form only since no ROS 1 packages available in Rolling
   rosbag2_broll:
     doc:
       type: git
