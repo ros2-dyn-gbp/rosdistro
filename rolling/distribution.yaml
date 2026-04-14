@@ -250,7 +250,7 @@ repositories:
       - rmw_test_fixture_implementation
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/ament_cmake_ros-release.git
+      url: https://github.com/ros2-dyn-gbp/ament_cmake_ros-release.git
       version: 0.15.6-1
     source:
       test_pull_requests: true
@@ -5672,7 +5672,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/osrf_testing_tools_cpp-release.git
+      url: https://github.com/ros2-dyn-gbp/osrf_testing_tools_cpp-release.git
       version: 2.3.0-1
     source:
       test_pull_requests: true
@@ -5825,7 +5825,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/performance_test_fixture-release.git
+      url: https://github.com/ros2-dyn-gbp/performance_test_fixture-release.git
       version: 0.4.1-1
     source:
       test_pull_requests: true
