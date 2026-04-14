@@ -3,12 +3,13 @@
 # see REP 143: http://ros.org/reps/rep-0143.html
 ---
 release_platforms:
-  debian:
-  - bookworm
+  # debian:
+  # - bookworm
   rhel:
   - '9'
-  ubuntu:
-  - noble
+  - '10'
+    # ubuntu:
+    # - noble
 repositories:
   SMACC2:
     doc:
