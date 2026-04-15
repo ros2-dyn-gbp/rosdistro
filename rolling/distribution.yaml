@@ -8380,7 +8380,7 @@ repositories:
       - rosidlcpp_typesupport_introspection_cpp
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rosidlcpp-release.git
+      url: https://github.com/ros2-dyn-gbp/rosidlcpp-release.git
       version: 0.5.0-1
     source:
       type: git
