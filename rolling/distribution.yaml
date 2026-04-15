@@ -1140,7 +1140,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/class_loader-release.git
+      url: https://github.com/ros2-dyn-gbp/class_loader-release.git
       version: 2.9.4-1
     source:
       test_pull_requests: true
@@ -1526,7 +1526,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/cyclonedds-release.git
+      url: https://github.com/ros2-dyn-gbp/cyclonedds-release.git
       version: 11.0.1-1
     source:
       type: git
@@ -2123,7 +2123,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/fastdds-release.git
+      url: https://github.com/ros2-dyn-gbp/fastdds-release.git
       version: 3.6.0-1
     source:
       test_commits: true
@@ -3317,7 +3317,7 @@ repositories:
       - iceoryx_posh
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/iceoryx-release.git
+      url: https://github.com/ros2-dyn-gbp/iceoryx-release.git
       version: 2.0.5-5
     source:
       type: git
@@ -6041,7 +6041,7 @@ repositories:
       - ros2plugin
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/pluginlib-release.git
+      url: https://github.com/ros2-dyn-gbp/pluginlib-release.git
       version: 5.8.4-1
     source:
       test_pull_requests: true
@@ -7333,7 +7333,7 @@ repositories:
       - rmw_cyclonedds_cpp
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rmw_cyclonedds-release.git
+      url: https://github.com/ros2-dyn-gbp/rmw_cyclonedds-release.git
       version: 4.1.4-1
     source:
       test_pull_requests: true
@@ -7365,7 +7365,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rmw_desert-release.git
+      url: https://github.com/ros2-dyn-gbp/rmw_desert-release.git
       version: 4.0.1-2
     source:
       type: git
@@ -7396,7 +7396,7 @@ repositories:
       - rmw_fastrtps_shared_cpp
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rmw_fastrtps-release.git
+      url: https://github.com/ros2-dyn-gbp/rmw_fastrtps-release.git
       version: 9.4.7-1
     source:
       test_pull_requests: true
@@ -7430,7 +7430,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rmw_implementation-release.git
+      url: https://github.com/ros2-dyn-gbp/rmw_implementation-release.git
       version: 3.1.5-4
     source:
       test_pull_requests: true
@@ -7450,7 +7450,7 @@ repositories:
       - zenoh_security_tools
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rmw_zenoh-release.git
+      url: https://github.com/ros2-dyn-gbp/rmw_zenoh-release.git
       version: 0.10.3-1
     source:
       type: git
@@ -7783,7 +7783,7 @@ repositories:
       - tracetools_trace
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/ros2_tracing-release.git
+      url: https://github.com/ros2-dyn-gbp/ros2_tracing-release.git
       version: 8.10.1-1
     source:
       test_pull_requests: true
@@ -8261,7 +8261,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rosidl_dynamic_typesupport_fastrtps-release.git
+      url: https://github.com/ros2-dyn-gbp/rosidl_dynamic_typesupport_fastrtps-release.git
       version: 0.5.1-1
     source:
       test_pull_requests: true
