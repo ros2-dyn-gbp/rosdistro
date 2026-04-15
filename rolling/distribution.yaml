@@ -1327,7 +1327,7 @@ repositories:
       - visualization_msgs
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/common_interfaces-release.git
+      url: https://github.com/ros2-dyn-gbp/common_interfaces-release.git
       version: 5.9.2-1
     source:
       test_pull_requests: true
@@ -4128,7 +4128,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/libstatistics_collector-release.git
+      url: https://github.com/ros2-dyn-gbp/libstatistics_collector-release.git
       version: 2.1.1-1
     source:
       type: git
@@ -6776,7 +6776,7 @@ repositories:
       - rclcpp_lifecycle
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rclcpp-release.git
+      url: https://github.com/ros2-dyn-gbp/rclcpp-release.git
       version: 31.0.3-1
     source:
       test_pull_requests: true
@@ -6792,7 +6792,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rclpy-release.git
+      url: https://github.com/ros2-dyn-gbp/rclpy-release.git
       version: 10.0.9-1
     source:
       test_pull_requests: true
