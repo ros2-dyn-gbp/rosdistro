@@ -2599,7 +2599,7 @@ repositories:
       - tf2_tools
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/geometry2-release.git
+      url: https://github.com/ros2-dyn-gbp/geometry2-release.git
       version: 0.45.7-1
     source:
       test_pull_requests: true
@@ -3616,7 +3616,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/kdl_parser-release.git
+      url: https://github.com/ros2-dyn-gbp/kdl_parser-release.git
       version: 3.0.1-1
     source:
       test_pull_requests: true
@@ -3632,7 +3632,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/kdl_parser_py-release.git
+      url: https://github.com/ros2-dyn-gbp/kdl_parser_py-release.git
       version: 3.0.0-1
     source:
       test_pull_requests: true
@@ -3648,7 +3648,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/keyboard_handler-release.git
+      url: https://github.com/ros2-dyn-gbp/keyboard_handler-release.git
       version: 0.5.0-1
     source:
       test_pull_requests: true
@@ -4406,7 +4406,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/ros2_message_filters-release.git
+      url: https://github.com/ros2-dyn-gbp/ros2_message_filters-release.git
       version: 7.3.8-1
     source:
       test_pull_requests: true
@@ -8074,7 +8074,7 @@ repositories:
       - zstd_cmake_module
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/rosbag2-release.git
+      url: https://github.com/ros2-dyn-gbp/rosbag2-release.git
       version: 0.33.1-1
     source:
       test_pull_requests: true
@@ -10508,7 +10508,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/urdfdom-release.git
+      url: https://github.com/ros2-dyn-gbp/urdfdom-release.git
       version: 5.1.1-1
     source:
       test_pull_requests: true
@@ -10524,7 +10524,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/urdfdom_headers-release.git
+      url: https://github.com/ros2-dyn-gbp/urdfdom_headers-release.git
       version: 2.1.1-1
     source:
       type: git
