@@ -1904,7 +1904,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/eigen3_cmake_module-release.git
+      url: https://github.com/ros2-dyn-gbp/eigen3_cmake_module-release.git
       version: 0.5.1-1
     source:
       type: git
@@ -7515,7 +7515,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/robot_state_publisher-release.git
+      url: https://github.com/ros2-dyn-gbp/robot_state_publisher-release.git
       version: 3.5.5-1
     source:
       test_pull_requests: true
@@ -10427,7 +10427,7 @@ repositories:
       - urdf_parser_plugin
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/urdf-release.git
+      url: https://github.com/ros2-dyn-gbp/urdf-release.git
       version: 2.13.2-1
     source:
       test_pull_requests: true
