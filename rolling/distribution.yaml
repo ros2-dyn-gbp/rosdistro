@@ -4061,7 +4061,7 @@ repositories:
     release:
       tags:
         release: release/rolling/{package}/{version}
-      url: https://github.com/ros2-gbp/libcamera-release.git
+      url: https://github.com/ros2-dyn-gbp/libcamera-release.git
       version: 0.7.0-1
     source:
       type: git
