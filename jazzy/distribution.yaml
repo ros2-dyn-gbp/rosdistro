@@ -586,7 +586,7 @@ repositories:
       tags:
         release: release/jazzy/{package}/{version}
       url: https://github.com/ros2-gbp/aruco_opencv-release.git
-      version: 6.1.1-1
+      version: 6.1.2-1
     source:
       type: git
       url: https://github.com/fictionlab/ros_aruco_opencv.git
@@ -2720,7 +2720,7 @@ repositories:
       tags:
         release: release/jazzy/{package}/{version}
       url: https://github.com/ros2-gbp/event_camera_tools-release.git
-      version: 3.1.2-1
+      version: 3.1.4-1
     source:
       type: git
       url: https://github.com/ros-event-camera/event_camera_tools.git
@@ -3240,7 +3240,7 @@ repositories:
       tags:
         release: release/jazzy/{package}/{version}
       url: https://github.com/ros2-gbp/frequency_cam-release.git
-      version: 3.1.0-1
+      version: 3.1.1-1
     source:
       type: git
       url: https://github.com/ros-event-camera/frequency_cam.git
@@ -4979,7 +4979,7 @@ repositories:
       tags:
         release: release/jazzy/{package}/{version}
       url: https://github.com/ros2-gbp/libcaer_driver-release.git
-      version: 1.5.2-1
+      version: 1.5.4-1
     source:
       type: git
       url: https://github.com/ros-event-camera/libcaer_driver.git
@@ -6019,7 +6019,7 @@ repositories:
       tags:
         release: release/jazzy/{package}/{version}
       url: https://github.com/ros2-gbp/mrpt_ros_bridge-release.git
-      version: 3.5.2-1
+      version: 3.5.3-1
     source:
       type: git
       url: https://github.com/MRPT/mrpt_ros_bridge.git
@@ -7480,6 +7480,16 @@ repositories:
       url: https://github.com/mrpt-ros-pkg/pose_cov_ops.git
       version: master
     status: maintained
+  potential_fields:
+    doc:
+      type: git
+      url: https://github.com/argallab/potential_fields.git
+      version: main
+    source:
+      type: git
+      url: https://github.com/argallab/potential_fields.git
+      version: main
+    status: developed
   proto2ros:
     doc:
       type: git
@@ -10072,7 +10082,7 @@ repositories:
       tags:
         release: release/jazzy/{package}/{version}
       url: https://github.com/ros2-gbp/rqml-release.git
-      version: 3.26.41-1
+      version: 3.26.42-1
     source:
       type: git
       url: https://github.com/StefanFabian/rqml.git
@@ -10708,6 +10718,12 @@ repositories:
       url: https://github.com/nobleo/rviz_satellite.git
       version: main
     status: maintained
+  rviz_splat:
+    source:
+      type: git
+      url: https://github.com/RVizSplat/RVizSplat.git
+      version: main
+    status: developed
   rviz_visual_tools:
     doc:
       type: git
