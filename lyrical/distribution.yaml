@@ -245,7 +245,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/ament_cmake_ros-release.git
-      version: 0.15.7-3
+      version: 0.15.8-1
     source:
       test_pull_requests: true
       type: git
@@ -528,7 +528,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/aruco_opencv-release.git
-      version: 6.1.1-3
+      version: 6.1.2-1
     source:
       type: git
       url: https://github.com/fictionlab/ros_aruco_opencv.git
@@ -586,7 +586,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/async_web_server_cpp-release.git
-      version: 2.0.1-3
+      version: 2.0.2-1
     source:
       type: git
       url: https://github.com/fkie/async_web_server_cpp.git
@@ -697,7 +697,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/autoware_adapi_msgs-release.git
-      version: 1.9.0-3
+      version: 1.9.0-4
     source:
       type: git
       url: https://github.com/autowarefoundation/autoware_adapi_msgs.git
@@ -1322,7 +1322,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/compass-release.git
-      version: 3.0.2-3
+      version: 3.0.3-1
     source:
       type: git
       url: https://github.com/ctu-vras/compass.git
@@ -2088,7 +2088,7 @@ repositories:
     doc:
       type: git
       url: https://github.com/eProsima/Fast-DDS.git
-      version: 3.2.x
+      version: 3.6.x
     release:
       tags:
         release: release/lyrical/{package}/{version}
@@ -2099,7 +2099,7 @@ repositories:
       test_pull_requests: false
       type: git
       url: https://github.com/eProsima/Fast-DDS.git
-      version: 3.2.x
+      version: 3.6.x
     status: maintained
   feetech_ros2_driver:
     release:
@@ -2237,7 +2237,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/fkie_message_filters-release.git
-      version: 3.3.0-3
+      version: 3.3.1-1
     source:
       type: git
       url: https://github.com/fkie/message_filters.git
@@ -2356,7 +2356,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/foonathan_memory_vendor-release.git
-      version: 1.3.1-4
+      version: 1.4.1-1
     source:
       type: git
       url: https://github.com/eProsima/foonathan_memory_vendor.git
@@ -2385,6 +2385,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/foxglove_bridge-release.git
+      version: 3.2.6-3
     source:
       type: git
       url: https://github.com/foxglove/foxglove-sdk.git
@@ -2477,6 +2478,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/game_controller_spl-release.git
+      version: 5.0.0-4
     source:
       type: git
       url: https://github.com/ros-sports/game_controller_spl.git
@@ -2491,10 +2493,10 @@ repositories:
       packages:
       - generate_parameter_library
       - generate_parameter_library_py
-      - parameter_traits
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/generate_parameter_library-release.git
+      version: 1.0.1-1
     source:
       type: git
       url: https://github.com/PickNikRobotics/generate_parameter_library.git
@@ -2814,7 +2816,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/gz_common_vendor-release.git
-      version: 0.3.5-3
+      version: 0.3.5-4
     source:
       test_pull_requests: true
       type: git
@@ -2926,7 +2928,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/gz_ogre_next_vendor-release.git
-      version: 0.2.0-3
+      version: 0.2.1-1
     source:
       test_pull_requests: true
       type: git
@@ -2974,6 +2976,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/gz_rendering_vendor-release.git
+      version: 0.4.3-3
     source:
       test_pull_requests: true
       type: git
@@ -2992,6 +2995,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/ign_ros2_control-release.git
+      version: 3.0.7-3
     source:
       type: git
       url: https://github.com/ros-controls/gz_ros2_control.git
@@ -3308,7 +3312,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/image_common-release.git
-      version: 6.4.7-3
+      version: 6.4.8-1
     source:
       test_pull_requests: true
       type: git
@@ -3334,7 +3338,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/image_pipeline-release.git
-      version: 7.1.3-3
+      version: 7.1.6-1
     source:
       test_pull_requests: true
       type: git
@@ -3428,7 +3432,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/interactive_markers-release.git
-      version: 2.8.3-4
+      version: 2.8.4-1
     source:
       test_pull_requests: true
       type: git
@@ -3489,7 +3493,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/joint_state_publisher-release.git
-      version: 2.4.1-3
+      version: 2.4.2-1
     source:
       test_pull_requests: true
       type: git
@@ -3590,7 +3594,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/keyboard_handler-release.git
-      version: 0.5.0-3
+      version: 0.5.1-1
     source:
       test_pull_requests: true
       type: git
@@ -3852,7 +3856,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/launch_ros-release.git
-      version: 0.29.7-3
+      version: 0.29.8-1
     source:
       test_pull_requests: true
       type: git
@@ -4003,6 +4007,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/libcamera-release.git
+      version: 0.7.0-4
     source:
       type: git
       url: https://git.libcamera.org/libcamera/libcamera.git
@@ -4062,16 +4067,16 @@ repositories:
     doc:
       type: git
       url: https://github.com/ros-tooling/libstatistics_collector.git
-      version: rolling
+      version: lyrical
     release:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/libstatistics_collector-release.git
-      version: 2.1.1-3
+      version: 2.1.2-1
     source:
       type: git
       url: https://github.com/ros-tooling/libstatistics_collector.git
-      version: rolling
+      version: lyrical
     status: developed
   libyaml_vendor:
     release:
@@ -4344,7 +4349,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/ros2_message_filters-release.git
-      version: 7.3.8-3
+      version: 7.4.0-1
     source:
       test_pull_requests: true
       type: git
@@ -4521,7 +4526,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/mola_common-release.git
-      version: 0.5.2-3
+      version: 0.5.3-1
     source:
       type: git
       url: https://github.com/MOLAorg/mola_common.git
@@ -4911,7 +4916,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/mrpt_ros-release.git
-      version: 2.15.14-3
+      version: 2.15.16-1
     source:
       type: git
       url: https://github.com/MRPT/mrpt_ros.git
@@ -4952,6 +4957,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/mrpt_sensors-release.git
+      version: 0.2.4-3
     source:
       type: git
       url: https://github.com/mrpt-ros-pkg/mrpt_sensors.git
@@ -5131,7 +5137,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/navigation_msgs-release.git
-      version: 2.6.0-3
+      version: 2.6.1-1
     source:
       test_pull_requests: true
       type: git
@@ -5513,7 +5519,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/openeb_vendor-release.git
-      version: 2.0.2-3
+      version: 2.0.3-1
     source:
       type: git
       url: https://github.com/ros-event-camera/openeb_vendor.git
@@ -5614,7 +5620,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/osrf_testing_tools_cpp-release.git
-      version: 2.3.0-3
+      version: 2.3.1-1
     source:
       test_pull_requests: true
       type: git
@@ -6011,7 +6017,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/point_cloud_transport-release.git
-      version: 5.4.0-3
+      version: 5.4.1-1
     source:
       test_pull_requests: true
       type: git
@@ -6402,7 +6408,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/qt_gui_core-release.git
-      version: 2.10.7-3
+      version: 2.11.0-1
     source:
       test_pull_requests: true
       type: git
@@ -6596,7 +6602,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/rcl-release.git
-      version: 10.4.3-3
+      version: 10.4.4-1
     source:
       test_pull_requests: true
       type: git
@@ -6712,7 +6718,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/rclcpp-release.git
-      version: 31.0.3-3
+      version: 32.0.0-1
     source:
       test_pull_requests: true
       type: git
@@ -6728,7 +6734,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/rclpy-release.git
-      version: 10.0.9-3
+      version: 10.0.10-1
     source:
       test_pull_requests: true
       type: git
@@ -6744,7 +6750,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/rcpputils-release.git
-      version: 2.14.4-3
+      version: 2.14.5-1
     source:
       test_pull_requests: true
       type: git
@@ -6843,7 +6849,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/realtime_support-release.git
-      version: 0.20.0-3
+      version: 0.20.1-1
     source:
       test_pull_requests: true
       type: git
@@ -6924,7 +6930,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/resource_retriever_service-release.git
-      version: 0.0.1-3
+      version: 0.0.2-1
     source:
       test_pull_requests: true
       type: git
@@ -7271,7 +7277,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/rmw_connextdds-release.git
-      version: 1.2.5-1
+      version: 1.2.6-1
     source:
       type: git
       url: https://github.com/ros2/rmw_connextdds.git
@@ -7404,7 +7410,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/rmw_zenoh-release.git
-      version: 0.10.3-3
+      version: 0.10.4-1
     source:
       type: git
       url: https://github.com/ros2/rmw_zenoh.git
@@ -7697,7 +7703,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/ros2_snapshot-release.git
-      version: 0.0.6-4
+      version: 0.0.7-1
     source:
       type: git
       url: https://github.com/cnurobotics/ros2_snapshot.git
@@ -7738,7 +7744,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/ros2_tracing-release.git
-      version: 8.10.1-3
+      version: 8.10.2-1
     source:
       test_pull_requests: true
       type: git
@@ -7796,7 +7802,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/ros2cli-release.git
-      version: 0.40.6-3
+      version: 0.40.7-1
     source:
       test_pull_requests: true
       type: git
@@ -8029,7 +8035,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/rosbag2-release.git
-      version: 0.33.1-3
+      version: 0.33.2-1
     source:
       test_pull_requests: true
       type: git
@@ -8452,7 +8458,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/rqt-release.git
-      version: 1.10.4-3
+      version: 1.10.5-1
     source:
       test_pull_requests: true
       type: git
@@ -8468,7 +8474,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/rqt_action-release.git
-      version: 2.4.1-3
+      version: 2.5.0-1
     source:
       type: git
       url: https://github.com/ros-visualization/rqt_action.git
@@ -8561,7 +8567,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/rqt_graph-release.git
-      version: 1.8.2-3
+      version: 1.8.3-1
     source:
       test_pull_requests: true
       type: git
@@ -8656,7 +8662,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/rqt_publisher-release.git
-      version: 1.10.2-3
+      version: 1.10.3-1
     source:
       type: git
       url: https://github.com/ros-visualization/rqt_publisher.git
@@ -9458,7 +9464,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/sros2-release.git
-      version: 0.16.4-3
+      version: 0.16.5-1
     source:
       test_pull_requests: true
       type: git
@@ -9859,7 +9865,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/toppra-release.git
-      version: 0.6.7-3
+      version: 0.6.8-1
     source:
       type: git
       url: https://github.com/hungpham2511/toppra.git
@@ -10298,6 +10304,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/Universal_Robots_Client_Library-release.git
+      version: 2.11.0-1
     source:
       type: git
       url: https://github.com/UniversalRobots/Universal_Robots_Client_Library.git
@@ -10312,7 +10319,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/ur_description-release.git
-      version: 4.3.0-3
+      version: 4.3.1-1
     source:
       type: git
       url: https://github.com/UniversalRobots/Universal_Robots_ROS2_Description.git
@@ -10762,7 +10769,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/web_video_server-release.git
-      version: 3.1.0-3
+      version: 3.1.1-1
     source:
       test_pull_requests: true
       type: git
@@ -10882,7 +10889,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/zed-ros2-description-release.git
-      version: 0.1.3-3
+      version: 0.1.5-1
     source:
       type: git
       url: https://github.com/stereolabs/zed-ros2-description.git
@@ -10899,7 +10906,7 @@ repositories:
       tags:
         release: release/lyrical/{package}/{version}
       url: https://github.com/ros2-gbp/zed-ros2-interfaces-release.git
-      version: 5.2.1-3
+      version: 5.3.0-1
     source:
       type: git
       url: https://github.com/stereolabs/zed-ros2-interfaces.git
