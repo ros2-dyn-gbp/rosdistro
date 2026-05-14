@@ -7751,16 +7751,16 @@ repositories:
     doc:
       type: git
       url: https://github.com/fujitatomoya/ros2_persist_parameter_server.git
-      version: rolling
+      version: humble
     release:
       tags:
         release: release/humble/{package}/{version}
       url: https://github.com/ros2-gbp/persist_parameter_server-release.git
-      version: 1.0.5-1
+      version: 1.1.0-1
     source:
       type: git
       url: https://github.com/fujitatomoya/ros2_persist_parameter_server.git
-      version: rolling
+      version: humble
     status: maintained
   phidgets_drivers:
     doc:
